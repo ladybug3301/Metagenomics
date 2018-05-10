@@ -1,0 +1,3 @@
+OTU	Test-Statistic	P	FDR_P	Bonferroni_P	soil_mean
+k__Archaea	nan	nan	1.0	nan	0.0268991131911
+k__Bacteria	nan	nan	1.0	nan	0.973100886809

@@ -1,0 +1,3 @@
+Taxa	Test-Statistic	P-value	Gordon_SQ_mean	Grass Park
+Archaea	30.97104686	2.62E-08	0.026899113	0.002793982
+Bacteria	30.96509804	2.63E-08	0.973100887	0.997206018
