@@ -1,5 +1,7 @@
 # 16S rRNA metagenomic analysis 
 
+**Student: Miruna Serian**
+
  **This report is part of the assesment for BIOC3301 Module at UCL**
   
   We analysied 16S rRNA  extracted from soil samples which were collected from Gordon Square Gardens, London. The data was processed using 	**QIIME** and **MicrobiomeAnalyst** (http://www.microbiomeanalyst.ca/) tools.
